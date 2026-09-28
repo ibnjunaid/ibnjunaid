@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Cloud Engineer** currently working at **Amazon Web Services**, where I help customers build scalable, reliable cloud infrastructure. I love automating complex systems and solving challenging problems in distributed environments.
+I'm a passionate **Platform Engineer** currently working at **Syself GMBH**, where I help customers build scalable, reliable cloud infrastructure. I love automating complex systems and solving challenging problems in distributed environments.
 
 - 🔭 Currently working on **AWS container services** and **Kubernetes orchestration**
 - 🌱 Learning more about **AI/ML integration** in cloud infrastructure
